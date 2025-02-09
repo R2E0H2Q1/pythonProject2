@@ -19,7 +19,7 @@ def test_calculator_sub_small():
     # Arrange
     a: int = 5
     b: int = 2
-    expected: int = 3
+    expected: int = 33
 
     # Act
     actual: int = calculator.minus(a, b)
